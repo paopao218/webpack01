@@ -4,7 +4,7 @@
    "description": "",
    "main": "index.js",
    "scripts": {
-      "dev": "npx webpack --mode=development ./src/index.js --output ./dist/main.js",
+      "dev": "npx webpack",
       "start": "npm run dev"
    },
    "author": "",
